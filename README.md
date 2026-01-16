@@ -62,14 +62,14 @@ The **API interface remains stable** across all stages.
 ```
 fastapi-bookstore-api/
 ├── app/
-│ ├── api/ # Route definitions
-│ ├── models/ # Pydantic models
-│ ├── services/ # Business logic
+│ ├── api/        # Route definitions
+│ ├── models/     # Pydantic models
+│ ├── services/   # Business logic
 │ ├── repository/ # Data access layer
-│ ├── db/ # DB configuration
+│ ├── db/         # DB configuration
 │ └── main.py
 ├── data/
-│ └── books.json # Stage 1 storage
+│ └── books.json  # Stage 1 storage
 ├── tests/
 ├── README.md
 └── requirements.txt
