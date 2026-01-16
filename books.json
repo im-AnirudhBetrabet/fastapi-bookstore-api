@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "The God of Small Things",
+        "author": "Arundhati Roy",
+        "genre": "Fiction",
+        "price": 399.0,
+        "published_year": 1997,
+        "origin": "Indian"
+    },
+    {
+        "id": 2,
+        "title": "The Guide",
+        "author": "R.K. Narayan",
+        "genre": "Classic",
+        "price": 250.0,
+        "published_year": 1958,
+        "origin": "Indian"
+    },
+    {
+        "id": 3,
+        "title": "The Shiva Trilogy: The Immortals of Meluha",
+        "author": "Amish Tripathi",
+        "genre": "Mythology",
+        "price": 450.0,
+        "published_year": 2010,
+        "origin": "Indian"
+    },
+    {
+        "id": 5,
+        "title": "Midnight's Children",
+        "author": "Salman Rushdie",
+        "genre": "Magical Realism",
+        "price": 550.0,
+        "published_year": 1981,
+        "origin": "Indian"
+    },
+    {
+        "id": 6,
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "price": 299.0,
+        "published_year": 1949,
+        "origin": "Foreign"
+    },
+    {
+        "id": 7,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Classic",
+        "price": 350.0,
+        "published_year": 1960,
+        "origin": "Foreign"
+    },
+    {
+        "id": 8,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Tragedy",
+        "price": 275.0,
+        "published_year": 1925,
+        "origin": "Foreign"
+    },
+    {
+        "id": 9,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "genre": "Self-Help",
+        "price": 499.0,
+        "published_year": 2018,
+        "origin": "Foreign"
+    },
+    {
+        "id": 10,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Adventure",
+        "price": 325.0,
+        "published_year": 1988,
+        "origin": "Foreign"
+    }
+]
